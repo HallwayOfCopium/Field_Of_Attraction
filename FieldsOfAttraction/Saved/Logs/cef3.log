@@ -1,4 +1,31 @@
-[25560:3868:1003/122616.322:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25560:3868:1003/122616.379:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26580:20452:1003/122626.150:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-67545A7D488B8942D8C91C2D8497D488 will be ignored
-[25560:3868:1003/123620.332:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26696:15772:1004/074150.766:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26696:15444:1004/074150.792:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26696:15772:1004/074150.801:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26696:15444:1004/074152.234:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26696:15444:1004/074152.237:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26696:15444:1004/074152.239:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26696:15444:1004/074152.240:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26696:2892:1004/074152.452:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26696:2892:1004/074152.453:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14172:12912:1004/074153.361:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1D510D53ECFB55E7F8DAB6FCC2927659 will be ignored
+[11456:20148:1004/075201.062:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11456:20788:1004/075201.093:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11456:20148:1004/075201.102:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26732:16420:1004/075203.118:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C3BD78DE36C0AF6136CF4A68E43E59BF will be ignored
+[11740:22400:1004/075205.025:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11740:28736:1004/075205.054:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11740:28736:1004/075205.055:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11740:28736:1004/075205.055:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11456:19180:1004/075206.454:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[11456:20148:1004/075206.783:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[11456:20148:1004/075206.783:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[11456:20148:1004/075206.783:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[11456:20148:1004/075206.783:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[11456:19180:1004/075206.788:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27756:15476:1004/075208.115:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27756:21164:1004/075208.171:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27756:21164:1004/075208.171:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27756:21164:1004/075208.172:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27756:15476:1004/075212.129:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11456:20148:1004/075331.293:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26696:15772:1004/075334.509:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
