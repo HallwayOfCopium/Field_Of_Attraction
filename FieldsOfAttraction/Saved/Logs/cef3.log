@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [21828:17928:1004/044206.524:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [21828:17928:1004/044206.572:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [21828:14616:1004/044206.719:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
@@ -10,3 +11,16 @@
 [21828:1556:1004/044210.464:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [14536:18336:1004/044213.296:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3FB09D7B2D784E7792A669D6DF553C5A will be ignored
 [21828:17928:1004/075957.347:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[25760:4472:1004/112448.091:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25760:26428:1004/112448.275:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25760:4472:1004/112448.306:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25760:26428:1004/112451.562:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25760:26428:1004/112451.564:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25760:26428:1004/112451.566:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25760:26428:1004/112451.568:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25760:26436:1004/112451.866:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25760:26436:1004/112451.869:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15820:13336:1004/112454.535:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3279BBB825D966517D013E3806385B4C will be ignored
+[25760:4472:1004/112758.720:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
