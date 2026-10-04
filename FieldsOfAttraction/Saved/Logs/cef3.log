@@ -1,74 +1,11 @@
-[8180:29492:1004/084959.961:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8180:29492:1004/085000.014:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[8180:29492:1004/085000.165:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8180:26600:1004/085000.167:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8180:24424:1004/085003.379:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8180:24424:1004/085003.382:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8180:24424:1004/085003.384:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8180:24424:1004/085003.386:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:22544:1004/085003.825:ERROR:backend_impl.cc(989)] Critical error found -8
-[28128:22544:1004/085003.827:ERROR:entry_impl.cc(1029)] No file for b2020000
-[28128:22544:1004/085003.827:WARNING:storage_block-inl.h(138)] Failed data load.
-[8180:24424:1004/085003.836:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8180:24424:1004/085003.846:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22968:25312:1004/085004.118:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C77623E5259570FC6DD1DCF0813AAD25 will be ignored
-[22028:26416:1004/085005.037:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[22028:19916:1004/085005.087:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[22028:19916:1004/085005.088:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[22028:19916:1004/085005.089:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[28128:24368:1004/085005.111:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[28128:24368:1004/085005.112:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[28128:24368:1004/085005.112:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[28128:24368:1004/085005.116:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[28128:24368:1004/085005.116:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[28128:24368:1004/085005.116:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[28128:24368:1004/085005.116:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[28128:24368:1004/085005.116:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[28128:24368:1004/085005.116:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[28128:24368:1004/085005.116:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[28128:24368:1004/085005.117:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[28128:24368:1004/085005.117:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[22028:19916:1004/085005.118:WARNING:stun_port.cc(442)] Port[10d4c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[8180:27520:1004/085005.335:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[8180:29492:1004/085005.358:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[8180:29492:1004/085005.358:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[8180:29492:1004/085005.358:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[8180:29492:1004/085005.358:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[8180:27520:1004/085005.394:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[23252:4548:1004/085005.523:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[23252:22556:1004/085005.577:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[23252:22556:1004/085005.577:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[23252:22556:1004/085005.578:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[28128:24368:1004/085005.603:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[28128:24368:1004/085005.603:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[28128:24368:1004/085005.603:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[23252:22556:1004/085005.603:WARNING:stun_port.cc(442)] Port[1254c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[23252:22556:1004/085005.603:WARNING:stun_port.cc(442)] Port[1255400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[28128:24368:1004/085005.603:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[23252:22556:1004/085005.604:WARNING:stun_port.cc(442)] Port[1255c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[23252:22556:1004/085005.604:WARNING:stun_port.cc(442)] Port[1254c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[23252:22556:1004/085005.604:WARNING:stun_port.cc(442)] Port[1255400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[23252:22556:1004/085005.604:WARNING:stun_port.cc(442)] Port[1255c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[23252:22556:1004/085005.604:WARNING:stun_port.cc(442)] Port[1254c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[23252:22556:1004/085005.604:WARNING:stun_port.cc(442)] Port[1255400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[23252:22556:1004/085005.604:WARNING:stun_port.cc(442)] Port[1255c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[23252:4548:1004/085007.584:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[10072:5956:1004/085212.383:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[8180:29492:1004/100138.273:ERROR:device_event_log_impl.cc(196)] [10:01:38.271] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8180:29492:1004/100214.582:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3996:4040:1004/121642.830:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3996:4040:1004/121643.162:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3996:25284:1004/121643.251:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3996:24336:1004/121648.450:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3996:24336:1004/121648.453:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3996:24336:1004/121648.454:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3996:24336:1004/121648.455:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\USER\Desktop\UNITY\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3996:24336:1004/121648.849:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3996:24336:1004/121648.851:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20648:20368:1004/121650.831:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E3DF06B7A311A1B2CB153292AAF86A68 will be ignored
+[3996:4040:1004/135813.457:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
