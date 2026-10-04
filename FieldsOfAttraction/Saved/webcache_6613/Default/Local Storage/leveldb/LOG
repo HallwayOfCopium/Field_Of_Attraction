@@ -1,3 +1,2 @@
-2026/10/04-08:35:02.990 65d4 Reusing MANIFEST C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/04-08:35:02.994 65d4 Recovering log #3
-2026/10/04-08:35:02.996 65d4 Reusing old log C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/10/04-11:28:51.749 6c20 Creating DB C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/04-11:28:51.783 6c20 Reusing MANIFEST C:\Users\User\Documents\GitHub\Field_Of_Attraction\FieldsOfAttraction\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
